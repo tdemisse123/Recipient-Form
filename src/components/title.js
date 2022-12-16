@@ -1,7 +1,7 @@
 function Title(){
     return(
     <div>
-        <h1>Recipient Form </h1>
+        <h2>Recipient Form </h2>
         </div>
     )
 }
